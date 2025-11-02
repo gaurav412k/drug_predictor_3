@@ -1,0 +1,5 @@
+﻿type,input_feature,ct_mean
+organism,Escherichia coli,24.760000000000002
+organism,Streptococcus agalactiae,16.23
+genes,"ermA,ermB,ermC",17.050000000000001
+genes,mecA,20.449999999999999

@@ -1,0 +1,438 @@
+{
+    "drug_effects": {
+        "Nitrofurantoin (Macrobid)": {
+            "side effects": "Neuropathy",
+            "interactions": "Antiacid",
+            "dose adj": "Renal"
+        },
+        "Macrobid": {
+            "side effects": "Neuropathy",
+            "interactions": "Antiacid",
+            "dose adj": "Renal"
+        },
+        "Trimethoprim-Sulfamethoxazole": {
+            "side effects": "Hyperkalemia",
+            "interactions": "ACE Inhibitors",
+            "dose adj": "Renal"
+        },
+        "TMP-SMX": {
+            "side effects": "Hyperkalemia",
+            "interactions": "ACE Inhibitors",
+            "dose adj": "Renal"
+        },
+        "Amoxicillin": {
+            "side effects": "Rash",
+            "interactions": "Allopurinol",
+            "dose adj": "Renal"
+        },
+        "Fosfomycin": {
+            "side effects": "Diarrhea",
+            "interactions": "Metoclopramide",
+            "dose adj": "Renal"
+        },
+        "not applicable": {
+            "side effects": null,
+            "interactions": null,
+            "dose adj": "Renal"
+        },
+        "Amoxicillin-Clavulanate": {
+            "side effects": "Rash",
+            "interactions": "Allopurinol",
+            "dose adj": "Renal"
+        },
+        "Levofloxacin": {
+            "side effects": "Tendinitis",
+            "interactions": "Cations",
+            "dose adj": "Renal"
+        },
+        "Ciprofloxacin": {
+            "side effects": "Tendinitis",
+            "interactions": "Cations",
+            "dose adj": "Renal"
+        },
+        "Linezolid": {
+            "side effects": "Myelosupperssion",
+            "interactions": "SSRI's",
+            "dose adj": "Renal"
+        },
+        "Cephalexin": {
+            "side effects": "Eosinophilia",
+            "interactions": "Metformin",
+            "dose adj": "Renal"
+        },
+        "Ceftriaxone": {
+            "side effects": "Pseudocholelithiasis",
+            "interactions": "Prevacid",
+            "dose adj": "Hepatic"
+        },
+        "Moxifloxacin": {
+            "side effects": "Tendinitis",
+            "interactions": "Cations",
+            "dose adj": "Renal"
+        },
+        "Doxycycline": {
+            "side effects": "Photosensitivity Tendinitis",
+            "interactions": "Cations",
+            "dose adj": "Renal"
+        },
+        "Metronidazole": {
+            "side effects": "Metallic taste",
+            "interactions": "Disulfiram",
+            "dose adj": "Renal"
+        },
+        "Ampicillin": {
+            "side effects": "Eosinophilia",
+            "interactions": "Allopurinol",
+            "dose adj": "Renal"
+        },
+        "Amox/Clav": {
+            "side effects": "Rash",
+            "interactions": "Allopurinol",
+            "dose adj": "Renal"
+        },
+        "Pip/Taz": {
+            "side effects": "Thrombocytopenia",
+            "interactions": "Methotrexate",
+            "dose adj": "Renal"
+        },
+        "Cefixime": {
+            "side effects": "Diarrhea",
+            "interactions": null,
+            "dose adj": "Renal"
+        },
+        "Azithromycin": {
+            "side effects": "QT prolongation",
+            "interactions": "Amiodarone",
+            "dose adj": "Renal"
+        },
+        "Amikacin": {
+            "side effects": "Renal/Cochlear/Vestibular toxicity",
+            "interactions": "Lasix/ NSAIDS",
+            "dose adj": "Renal"
+        },
+        "Gentamicin": {
+            "side effects": "Renal/Cochlear/Vestibular toxicity",
+            "interactions": "Lasix/ NSAIDS",
+            "dose adj": "Renal"
+        },
+        "Vancomycin": {
+            "side effects": "Red Man Syndrome",
+            "interactions": "Nephrotoxic agents",
+            "dose adj": "Renal"
+        },
+        "Cefepime": {
+            "side effects": "Positive Coombs",
+            "interactions": null,
+            "dose adj": "Renal"
+        },
+        "Meropenem": {
+            "side effects": "Diarrhea",
+            "interactions": "Valporic acid",
+            "dose adj": "Renal"
+        }
+    },
+
+    "synonyms" : {
+        "Fosfomycin": [
+            "Fosfomycin",
+            "Fosfomycin\u00b0",
+            "Fosfomycin\u2019",
+            "Fosfomycin3",
+            "F0sfomycin\u00b0",
+            "orFosfomycin"
+        ],
+        "Amoxicillin-Clavulanate": [
+            "Amox/Clav",
+            "Amox/Clav\u00b0",
+            "Amox/Clav`",
+            "AMOx/Clav\u00b0",
+            "AmOx/Clav",
+            "Amox-clav",
+            "Amoxicillin-clavulanate",
+            "Amoxicillin Clavulanate"
+        ],
+        "Macrobid": [
+            "Macrobid",
+            "Macrobid\u00b0",
+            "Macrobid\u00b0100",
+            "Macro"
+        ],
+        "Ciprofloxacin": [
+            "Cipro",
+            "Cipro\u00b0",
+            "CIPRO",
+            "Ciprofloxacin"
+        ],
+        "Cephalexin": [
+            "Cephalexin",
+            "Cephalexin\u00b0",
+            "cephalexin"
+        ],
+        "Levofloxacin": [
+            "Levofloxacin",
+            "Levofloxacin\u00b0",
+            "Levofloxacin250-750",
+            "levofloxacin",
+            "evofloxacin"
+        ],
+        "Linezolid": [
+            "Linezolid",
+            "Linezolid250-750",
+            "Linezolid500",
+            "linezolid"
+        ],
+        "Gentamicin": [
+            "Gentamicin",
+            "Gentamicin\u00b0",
+            "Gentami"
+        ],
+        "Vancomycin": [
+            "Vancomycin",
+            "\u00b0Vancomycin",
+            "hVancomycin"
+        ],
+        "Cefepime": [
+            "Cefepime",
+            "Cefepime\u00b0",
+            "Cefepime1-2"
+        ],
+        "Amoxicillin": [
+            "Amoxicillin",
+            "Amoxicillin\u00b0",
+            "moxicillin\u00b0"
+        ],
+        "Pip/Taz": [
+            "Pip/Taz",
+            "Pip/Taz\u00b0",
+            "\u00b0Pip/Taz",
+            "Piperacillin/tazobactam"
+        ],
+        "TMP-SMX": [
+            "TMP-SMX",
+            "TMP-SMX\u00b0",
+            "TMP-SMXDS",
+            "\u00b0TMP-SMX",
+            "TMP-",
+            "TMP",
+            "trimethoprimsulfamethoxazole",
+            "Trimethoprim-Sulfamethoxazole"
+        ],
+        "Flucytosine": [
+            "Flucytosine",
+            "Flucytosine\u00b0",
+            "Fucytosine\u00b0",
+            "lucytosine"
+        ],
+        "Ceftriaxone": [
+            "Ceftriaxone"
+        ],
+        "Ertapenem": [
+            "Ertapenem",
+            "Ertapenem\u00b0"
+        ],
+        "Meropenem": [
+            "Meropenem",
+            "Meropenem\u00b0",
+            "meropenem"
+        ],
+        "Daptomycin": [
+            "Daptomycin"
+        ],
+        "Cefixime": [
+            "Cefixime",
+            "Cefixime\u00b0"
+        ],
+        "Cefiderocol": [
+            "Cefiderocol",
+            "Cefiderocol\u00b0",
+            "Cefideroco"
+        ],
+        "Ceftazidime": [
+            "Ceftazidime",
+            "Cefiazidime"
+        ],
+        "Azithromycin": [
+            "Azithromycin",
+            "azithromycin"
+        ],
+        "Doxycycline": [
+            "Doxycycline",
+            "Doxycycline\u00b0"
+        ],
+        "Metronidazole": [
+            "Metronidazole"
+        ],
+        "Tinidazole": [
+            "Tinidazole"
+        ],
+        "Moxifloxacin": [
+            "Moxifloxacin",
+            "Moxifloxac"
+        ],
+        "Amikacin": [
+            "Amikacin\u00b0",
+            "Amikacin"
+        ],
+        "Ampicillin": [
+            "Ampicillin",
+            "ampicillin"
+        ],
+        "AMP/SUL": [
+            "AMP/SUL",
+            "AMP/SUL\u00b0",
+            "AMP/Sul"
+        ]
+    },
+
+    "gene_to_antibiotic" : {
+        "ctx-m1": "extended-spectrum beta-lactamase",
+        "erma": "macrolide/clindamycin",
+        "ermb": "macrolide/clindamycin",
+        "ermc": "macrolide/clindamycin",
+        "imp": "carbapenem",
+        "kpc": "carbapenem",
+        "act/mir": "ampicillin/cephalosporin",
+        "mefa": "macrolide",
+        "mrsa": "macrolide",
+        "ndm": "carbapenem",
+        "oxa-48": "carbapenem",
+        "qnrb": "quinolone",
+        "qnrs": "quinolone",
+        "sul1": "tmp-smx",
+        "sul2": "tmp-smx",
+        "sul3": "tmp-smx",
+        "tem": "beta-lactam",
+        "vim": "carbapenem",
+        "vana": "vancomycin",
+        "vanb": "vancomycin",
+        "dfra": "tmp-smx",
+        "dfra1": "tmp-smx",
+        "dfra12": "tmp-smx",
+        "dfra17": "tmp-smx",
+        "dfra5": "tmp-smx",
+        "erea": "macrolide",
+        "gyra": "quinolone",
+        "meca": "methicillin",
+        "mpha": "macrolide",
+        "tetm": "tetracycline",
+        "vanc1": "vancomycin"
+    },
+
+    "all_features" : [
+        "escherichia coli",
+        "enterococcus faecalis",
+        "klebsiella pneumoniae",
+        "enterobacter cloacae",
+        "proteus mirabilis",
+        "citrobacter koseri",
+        "klebsiella oxytoca",
+        "candida glabrata",
+        "pseudomonas aeruginosa",
+        "aerococcus urinae",
+        "candida albicans",
+        "acinetobacter baumannii",
+        "corynebacterium riegelii",
+        "staphylococcus epidermidis",
+        "staphylococcus aureus",
+        "streptococcus agalactiae",
+        "enterococcus faecium",
+        "providencia stuartii",
+        "staphylococcus haemolyticus",
+        "citrobacter amalonaticus",
+        "enterobacter aerogenes",
+        "streptococcus oralis",
+        "staphylococcus lugdunensis",
+        "streptococcus pasteuranus",
+        "serratia marcescens",
+        "staphylococcus saprophyticus",
+        "candida parapsilosis",
+        "trichomonas vaginalis",
+        "enterococcus spp",
+        "proteus spp",
+        "morganella morganii",
+        "klebsiella aerogenes",
+        "anaerococcus spp",
+        "citrobacter spp",
+        "neisseria gonorrhoea",
+        "candida krusei",
+        "candida spp",
+        "chlamydia trachomatis",
+        "mycoplasma genitalium",
+        "pantoea agglomerans",
+        "corynebacterium urealyticum",
+        "ureaplasma urealyticum",
+        "none detected",
+        "neisseria gonorrhoeae",
+        "proteus vulgaris",
+        "tmp-smx",
+        "beta-lactam",
+        "tetracycline",
+        "vancomycin",
+        "macrolide/clindamycin",
+        "quinolone",
+        "methicillin",
+        "ampicillin/cephalosporin",
+        "carbapenem",
+        "macrolide",
+        "extended-spectrum beta-lactamase"
+    ],
+    
+    "resistance_score" : {
+        "tmp-smx" : 1,
+        "beta-lactam": 1,
+        "tetracycline": 1,
+        "vancomycin": 1,
+        "macrolide/clindamycin": 3,
+        "quinolone": 1,
+        "methicillin": 2,
+        "ampicillin/cephalosporin": 5,
+        "carbapenem": 7,
+        "macrolide": 1,
+        "extended-spectrum beta-lactamase": 3
+    },
+
+    "drug_score" : {
+        "Nitrofurantoin (Macrobid)": "3",
+        "Macrobid" : "3",
+        "Trimethoprim-Sulfamethoxazole": "2",
+        "TMP-SMX" : "2",
+        "Amoxicillin": "1",
+        "Fosfomycin": "1",
+        "not applicable": "-",
+        "Amoxicillin-Clavulanate": "2",
+        "Levofloxacin": "5",
+        "Ciprofloxacin": "5",
+        "Linezolid": "4",
+        "Levofloxacin, Nitrofurantoin (Macrobid)": "5,3",
+        "Cephalexin": "1",
+        "Nitrofurantoin (Macrobid), Amoxicillin": "3,1",
+        "Trimethoprim-Sulfamethoxazole, Amoxicillin": "2,1",
+        "Nitrofurantoin (Macrobid), Ciprofloxacin": "3,5",
+        "Fosfomycin, Amoxicillin": "1,1",
+        "Ceftriaxone": "2",
+        "Doxycycline, Moxifloxacin": "2,5",
+        "Nitrofurantoin (Macrobid), Levofloxacin": "3,5",
+        "Doxycycline": "2",
+        "Metronidazole": "2",
+        "Ampicillin": "1",
+        "Amox/Clav": "2",
+        "Amoxicillin, Nitrofurantoin (Macrobid)": "1,3",
+        "Fosfomycin, Trimethoprim-Sulfamethoxazole": "1,2",
+        "Pip/Taz": "4",
+        "Ciprofloxacin, Nitrofurantoin (Macrobid)": "5,3",
+        "Trimethoprim-Sulfamethoxazole, Linezolid": "2,4",
+        "Cefixime": "1",
+        "Linezolid, Nitrofurantoin (Macrobid)": "4,3",
+        "Levofloxacin, Cephalexin": "5,1",
+        "Doxycycline, Azithromycin": "2,1",
+        "Levofloxacin, Linezolid": "5,4",
+        "Amoxicillin, TrimethoprimSulfamethoxazole": "1,2",
+        "Levofloxacin, Amoxicillin Clavulanate": "5,2",
+        "Amikacin": "5",
+        "Gentamicin": "5",
+        "Trimethoprim-Sulfamethoxazole, Nitrofurantoin (Macrobid)": "2,3",
+        "Levofloxacin, Amoxicillin": "5,1",
+        "Ciprofloxacin, Amoxicillin": "5,1",
+        "Amoxicillin, Fosfomycin": "1,1"
+    }
+}
